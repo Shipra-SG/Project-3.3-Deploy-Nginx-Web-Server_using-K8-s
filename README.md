@@ -131,6 +131,9 @@ http://<public-IP>:80
 ```
 ✔️ Nginx web page is successfully accessible through the browser
 
+![Nginx Running Successfully](screenshots/nginx-running.png)
+
+
 ---
 
 ## Verification
